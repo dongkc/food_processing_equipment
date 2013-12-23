@@ -143,7 +143,7 @@ extern "C" int main(void) {
             }
         }
 
-        //IWDG_ReloadCounter();
+        IWDG_ReloadCounter();
     }
 }
 

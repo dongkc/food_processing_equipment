@@ -174,7 +174,7 @@ void DevMgr::init() {
 
     ADC1_Init();
     
-    //IWDG_Configuration();
+    IWDG_Configuration();
 }
 
 DevMgr::~DevMgr()
